@@ -11,4 +11,4 @@ By dropping the line everything will work as before again.
 By now it's only tested with controllers, directives and factories. Usage on own risk.
 
 Further explanations: 
-Basically some angular functions will be overriden at runtime. Therefore if errors occur, drop the include.
+Basically some angular functions will be overriden at runtime. Therefore if unexpected errors occur, drop the include.
